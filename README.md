@@ -1,4 +1,4 @@
-# hello_flutter_app
+# flutter-twitter-ui-copy
 
 A new Flutter project.
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/AmanatsuTouko/flutter-twitter-ui-copy/assets/88881947/01405bbe-c530-453e-9397-31a11ea8d9ed)
